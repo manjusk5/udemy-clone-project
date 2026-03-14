@@ -1,4 +1,5 @@
-Udemy clone project
+**Udemy clone project**
+
 This project is a simple Udemy-inspired website built using HTML and CSS. It replicates the basic layout of an online learning platform where users can browse different courses and explore learning categories. The goal of this project is to practice front-end web development by creating a clean and structured user interface.
 
 Features
