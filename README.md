@@ -13,6 +13,7 @@
 **Technologies Used**
 * HTML5
 * CSS3
+ 
 **Purpose of the Project**
     This project was created to improve my understanding of HTML structure and CSS styling while building a real-world inspired website layout.
 
